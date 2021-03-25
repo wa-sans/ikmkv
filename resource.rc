@@ -1,0 +1,6 @@
+FRAME0BMP BITMAP "./img/0.bmp"
+FRAME1BMP BITMAP "./img/1.bmp"
+FRAME2BMP BITMAP "./img/2.bmp"
+FRAME3BMP BITMAP "./img/3.bmp"
+FRAME4BMP BITMAP "./img/4.bmp"
+FRAME5BMP BITMAP "./img/5.bmp"
